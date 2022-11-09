@@ -18,11 +18,13 @@
 # would like to hire them for. (Remember, you do not have a lot of ether in
 # your account, so you cannot hire them for long!)
 
+
 # 4 Click the Send Transaction button to sign and send the transaction with
 # your Ethereum account information. If the transaction is successfully
 # communicated to Ganache, validated, and added to a block,
 # a resulting transaction hash code will be written to the Streamlit
 # application sidebar.
+Starter_Code/site transaction.PNG
 
 # 5. Navigate to the Ganache accounts tab and locate your account (index 0).
     # * Take a screenshot of the address, balance, and transaction (TX) count.
@@ -33,3 +35,5 @@
     # * Click the transaction and take a screenshot of it.
     # Save this screenshot to the README.md file of your GitHub repository for
     #  this Challenge assignment.
+    Starter_Code/ganache transaction.PNG
+

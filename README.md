@@ -30,6 +30,7 @@ Starter_Code/site transaction.PNG
     # * Take a screenshot of the address, balance, and transaction (TX) count.
     # Save this screenshot to the README.md file of your GitHub repository for
     #  this Challenge assignment.
+    Starter_Code/ganache balance.PNG
 
 # 6. Navigate to the Ganache transactions tab and locate the transaction.
     # * Click the transaction and take a screenshot of it.
